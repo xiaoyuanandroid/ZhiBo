@@ -1,0 +1,76 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <dimen name="dim0">0dp</dimen>
+    <dimen name="dim0.5">0.5dp</dimen>
+    <dimen name="dim1">1dp</dimen>
+    <dimen name="dim2">2dp</dimen>
+    <dimen name="dim3">3dp</dimen>
+    <dimen name="dim4">4dp</dimen>
+    <dimen name="dim5">5dp</dimen>
+    <dimen name="dim6">6dp</dimen>
+    <dimen name="dim7">7dp</dimen>
+    <dimen name="dim8">8dp</dimen>
+    <dimen name="dim9">9dp</dimen>
+    <dimen name="dim10">10dp</dimen>
+    <dimen name="dim11">11dp</dimen>
+    <dimen name="dim12">12dp</dimen>
+    <dimen name="dim12.5">12.5dp</dimen>
+    <dimen name="dim13">13dp</dimen>
+    <dimen name="dim14">14dp</dimen>
+    <dimen name="dim15">15dp</dimen>
+    <dimen name="dim16">16dp</dimen>
+    <dimen name="dim17">17dp</dimen>
+    <dimen name="dim18">18dp</dimen>
+    <dimen name="dim19">19dp</dimen>
+    <dimen name="dim20">20dp</dimen>
+    <dimen name="dim26">26dp</dimen>
+
+    <dimen name="txt11">11sp</dimen>
+    <dimen name="txt12">12sp</dimen>
+    <dimen name="txt13">13sp</dimen>
+    <dimen name="txt14">14sp</dimen>
+    <dimen name="txt15">15sp</dimen>
+    <dimen name="txt16">16sp</dimen>
+    <dimen name="txt17">17sp</dimen>
+    <dimen name="txt18">18sp</dimen>
+    <dimen name="txt20">20sp</dimen>
+    <dimen name="txt24">24sp</dimen>
+    <dimen name="txt26">26sp</dimen>
+    <dimen name="txt28">28sp</dimen>
+    <dimen name="txt30">30sp</dimen>
+
+    <dimen name="font_size_52px">26sp</dimen>
+    <dimen name="font_size_44px">22sp</dimen>
+    <dimen name="font_size_42px">21sp</dimen>
+    <dimen name="font_size_40px">20sp</dimen>
+    <dimen name="font_size_38px">19sp</dimen>
+    <dimen name="font_size_36px">18sp</dimen>
+    <dimen name="font_size_34px">17sp</dimen>
+    <dimen name="font_size_32px">16sp</dimen>
+    <dimen name="font_size_30px">15sp</dimen>
+    <dimen name="font_size_28px">14sp</dimen>
+    <dimen name="font_size_26px">13sp</dimen>
+    <dimen name="font_size_24px">12sp</dimen>
+    <dimen name="font_size_22px">11sp</dimen>
+    <dimen name="font_size_20px">10sp</dimen>
+
+    <dimen name="global_actionbar_height">46dip</dimen>
+    <dimen name="global_actionbar_view_height">28dip</dimen>
+    <dimen name="global_trans_height">4.2dip</dimen>
+    <dimen name="global_actionbar_top_height">53dip</dimen>
+    <dimen name="global_actionbar_margin_height">48.8dip</dimen>
+
+
+    <dimen name="heart_anim_bezier_x_rand">40.0dp</dimen>
+    <dimen name="heart_anim_init_x">50.0dp</dimen>
+    <dimen name="heart_anim_init_y">25.0dp</dimen>
+    <dimen name="heart_anim_length">100.0dp</dimen>
+    <dimen name="heart_anim_length_rand">150.0dp</dimen>
+    <dimen name="heart_anim_x_point_factor">30.0dp</dimen>
+    <dimen name="heart_size_height">27.3dp</dimen>
+    <dimen name="heart_size_width">32.5dp</dimen>
+
+</resources>

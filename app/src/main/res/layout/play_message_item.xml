@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="5dp">
+
+    <TextView
+        android:id="@+id/play_message_tv_name"
+        android:gravity="center"
+        android:padding="5dp"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:layout_width="40dp"
+        android:layout_height="30dp"
+        android:background="@drawable/play_message_tv_bg"
+        android:text="小源"
+        android:textSize="13sp"
+        android:textColor="@color/color_ffffff"/>
+
+    <TextView
+        android:id="@+id/play_message_tv_desc"
+        android:layout_marginLeft="10dp"
+        android:gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:text="今天天气不错"
+        android:textSize="15sp"
+        android:textColor="@color/color_ffffff"/>
+</LinearLayout>

@@ -1,0 +1,554 @@
+[
+    {
+        "merged": "/Users/xiaoyuan/北财/1609C/DiamondLive/giftlibrary/build/intermediates/res/merged/androidTest/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/xiaoyuan/.android/build-cache/2c11c7105f78479a7e940e3e57df3b7d052ff185/output/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/xiaoyuan/Desktop/DiamondLive/E:\\ShiXun01\\DiamondLive\\giftlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\face_gridview.xml",
+        "source": "/Users/xiaoyuan/Desktop/DiamondLive/E:\\ShiXun01\\DiamondLive\\giftlibrary\\build\\intermediates\\bundles\\debug\\res\\layout\\face_gridview.xml"
+    },
+    {
+        "merged": "/Users/xiaoyuan/北财/1609C/DiamondLive/giftlibrary/build/intermediates/res/merged/androidTest/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/xiaoyuan/.android/build-cache/2c11c7105f78479a7e940e3e57df3b7d052ff185/output/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/xiaoyuan/Desktop/DiamondLive/giftlibrary/build/intermediates/res/merged/androidTest/debug/layout/notification_template_media.xml",
+        "source": "/Users/xiaoyuan/.android/build-cache/2c11c7105f78479a7e940e3e57df3b7d052ff185/output/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/xiaoyuan/Desktop/DiamondLive/giftlibrary/build/intermediates/res/merged/androidTest/debug/layout/dot_image.xml",
+        "source": "/Users/xiaoyuan/Desktop/DiamondLive/giftlibrary/build/intermediates/bundles/debug/res/layout/dot_image.xml"
+    },
+    {
+        "merged": "/Users/xiaoyuan/Desktop/DiamondLive/giftlibrary/build/intermediates/res/merged/androidTest/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/xiaoyuan/.android/build-cache/2c11c7105f78479a7e940e3e57df3b7d052ff185/output/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/xiaoyuan/Desktop/DiamondLive/E:\\ShiXun01\\DiamondLive\\giftlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/xiaoyuan/Desktop/DiamondLive/C:\\Users\\Administrator\\.android\\build-cache\\227ed52b81a0d2beae5c2e00e9ff15cd8df35f72\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/xiaoyuan/Desktop/DiamondLive/E:\\ShiXun01\\DiamondLive\\giftlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "/Users/xiaoyuan/Desktop/DiamondLive/C:\\Users\\Administrator\\.android\\build-cache\\227ed52b81a0d2beae5c2e00e9ff15cd8df35f72\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/xiaoyuan/北财/1609C/DiamondLive/giftlibrary/build/intermediates/res/merged/androidTest/debug/layout/notification_template_big_media.xml",
+        "source": "/Users/xiaoyuan/.android/build-cache/2c11c7105f78479a7e940e3e57df3b7d052ff185/output/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/xiaoyuan/北财/1609C/DiamondLive/giftlibrary/build/intermediates/res/merged/androidTest/debug/layout/abc_screen_simple.xml",
+        "source": "/Users/xiaoyuan/.android/build-cache/2c11c7105f78479a7e940e3e57df3b7d052ff185/output/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/xiaoyuan/北财/1609C/DiamondLive/giftlibrary/build/intermediates/res/merged/androidTest/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/xiaoyuan/.android/build-cache/2c11c7105f78479a7e940e3e57df3b7d052ff185/output/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/xiaoyuan/北财/1609C/DiamondLive/giftlibrary/build/intermediates/res/merged/androidTest/debug/layout/chat_tool_box.xml",
+        "source": "/Users/xiaoyuan/北财/1609C/DiamondLive/giftlibrary/build/intermediates/bundles/debug/res/layout/chat_tool_box.xml"
+    },
+    {
+        "merged": "/Users/xiaoyuan/Desktop/DiamondLive/giftlibrary/build/intermediates/res/merged/androidTest/debug/layout/notification_template_lines.xml",
+        "source": "/Users/xiaoyuan/.android/build-cache/2c11c7105f78479a7e940e3e57df3b7d052ff185/output/res/layout/notification_template_lines.xml"
+    },
+    {
+        "merged": "/Users/xiaoyuan/北财/1609C/DiamondLive/giftlibrary/build/intermediates/res/merged/androidTest/debug/layout/activity_gift.xml",
+        "source": "/Users/xiaoyuan/北财/1609C/DiamondLive/giftlibrary/build/intermediates/bundles/debug/res/layout/activity_gift.xml"
+    },
+    {
+        "merged": "/Users/xiaoyuan/Desktop/DiamondLive/giftlibrary/build/intermediates/res/merged/androidTest/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/xiaoyuan/.android/build-cache/2c11c7105f78479a7e940e3e57df3b7d052ff185/output/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/xiaoyuan/Desktop/DiamondLive/E:\\ShiXun01\\DiamondLive\\giftlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/xiaoyuan/Desktop/DiamondLive/C:\\Users\\Administrator\\.android\\build-cache\\227ed52b81a0d2beae5c2e00e9ff15cd8df35f72\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/xiaoyuan/Desktop/DiamondLive/E:\\ShiXun01\\DiamondLive\\giftlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "/Users/xiaoyuan/Desktop/DiamondLive/C:\\Users\\Administrator\\.android\\build-cache\\227ed52b81a0d2beae5c2e00e9ff15cd8df35f72\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/xiaoyuan/Desktop/DiamondLive/E:\\ShiXun01\\DiamondLive\\giftlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "/Users/xiaoyuan/Desktop/DiamondLive/C:\\Users\\Administrator\\.android\\build-cache\\227ed52b81a0d2beae5c2e00e9ff15cd8df35f72\\output\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/xiaoyuan/Desktop/DiamondLive/E:\\ShiXun01\\DiamondLive\\giftlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "/Users/xiaoyuan/Desktop/DiamondLive/C:\\Users\\Administrator\\.android\\build-cache\\227ed52b81a0d2beae5c2e00e9ff15cd8df35f72\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/xiaoyuan/Desktop/DiamondLive/giftlibrary/build/intermediates/res/merged/androidTest/debug/layout/chat_face_container.xml",
+        "source": "/Users/xiaoyuan/Desktop/DiamondLive/giftlibrary/build/intermediates/bundles/debug/res/layout/chat_face_container.xml"
+    },
+    {
+        "merged": "/Users/xiaoyuan/Desktop/DiamondLive/E:\\ShiXun01\\DiamondLive\\giftlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/xiaoyuan/Desktop/DiamondLive/C:\\Users\\Administrator\\.android\\build-cache\\227ed52b81a0d2beae5c2e00e9ff15cd8df35f72\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/xiaoyuan/Desktop/DiamondLive/giftlibrary/build/intermediates/res/merged/androidTest/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/xiaoyuan/.android/build-cache/2c11c7105f78479a7e940e3e57df3b7d052ff185/output/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/xiaoyuan/Desktop/DiamondLive/giftlibrary/build/intermediates/res/merged/androidTest/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/xiaoyuan/.android/build-cache/2c11c7105f78479a7e940e3e57df3b7d052ff185/output/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/xiaoyuan/Desktop/DiamondLive/E:\\ShiXun01\\DiamondLive\\giftlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "/Users/xiaoyuan/Desktop/DiamondLive/C:\\Users\\Administrator\\.android\\build-cache\\227ed52b81a0d2beae5c2e00e9ff15cd8df35f72\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/xiaoyuan/北财/1609C/DiamondLive/giftlibrary/build/intermediates/res/merged/androidTest/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/xiaoyuan/.android/build-cache/2c11c7105f78479a7e940e3e57df3b7d052ff185/output/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/xiaoyuan/Desktop/DiamondLive/E:\\ShiXun01\\DiamondLive\\giftlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_media_action.xml",
+        "source": "/Users/xiaoyuan/Desktop/DiamondLive/C:\\Users\\Administrator\\.android\\build-cache\\227ed52b81a0d2beae5c2e00e9ff15cd8df35f72\\output\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/xiaoyuan/北财/1609C/DiamondLive/giftlibrary/build/intermediates/res/merged/androidTest/debug/layout/notification_template_big_media_narrow.xml",
+        "source": "/Users/xiaoyuan/.android/build-cache/2c11c7105f78479a7e940e3e57df3b7d052ff185/output/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/xiaoyuan/Desktop/DiamondLive/giftlibrary/build/intermediates/res/merged/androidTest/debug/layout/item_gift.xml",
+        "source": "/Users/xiaoyuan/Desktop/DiamondLive/giftlibrary/build/intermediates/bundles/debug/res/layout/item_gift.xml"
+    },
+    {
+        "merged": "/Users/xiaoyuan/Desktop/DiamondLive/E:\\ShiXun01\\DiamondLive\\giftlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "/Users/xiaoyuan/Desktop/DiamondLive/C:\\Users\\Administrator\\.android\\build-cache\\227ed52b81a0d2beae5c2e00e9ff15cd8df35f72\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/xiaoyuan/Desktop/DiamondLive/E:\\ShiXun01\\DiamondLive\\giftlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "/Users/xiaoyuan/Desktop/DiamondLive/C:\\Users\\Administrator\\.android\\build-cache\\227ed52b81a0d2beae5c2e00e9ff15cd8df35f72\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/xiaoyuan/Desktop/DiamondLive/giftlibrary/build/intermediates/res/merged/androidTest/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/xiaoyuan/.android/build-cache/2c11c7105f78479a7e940e3e57df3b7d052ff185/output/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/xiaoyuan/Desktop/DiamondLive/E:\\ShiXun01\\DiamondLive\\giftlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\chat_face_container.xml",
+        "source": "/Users/xiaoyuan/Desktop/DiamondLive/E:\\ShiXun01\\DiamondLive\\giftlibrary\\build\\intermediates\\bundles\\debug\\res\\layout\\chat_face_container.xml"
+    },
+    {
+        "merged": "/Users/xiaoyuan/Desktop/DiamondLive/E:\\ShiXun01\\DiamondLive\\giftlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "/Users/xiaoyuan/Desktop/DiamondLive/C:\\Users\\Administrator\\.android\\build-cache\\227ed52b81a0d2beae5c2e00e9ff15cd8df35f72\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/xiaoyuan/北财/1609C/DiamondLive/giftlibrary/build/intermediates/res/merged/androidTest/debug/layout/select_dialog_item_material.xml",
+        "source": "/Users/xiaoyuan/.android/build-cache/2c11c7105f78479a7e940e3e57df3b7d052ff185/output/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/xiaoyuan/Desktop/DiamondLive/giftlibrary/build/intermediates/res/merged/androidTest/debug/layout/chat_tool_box.xml",
+        "source": "/Users/xiaoyuan/Desktop/DiamondLive/giftlibrary/build/intermediates/bundles/debug/res/layout/chat_tool_box.xml"
+    },
+    {
+        "merged": "/Users/xiaoyuan/Desktop/DiamondLive/giftlibrary/build/intermediates/res/merged/androidTest/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/xiaoyuan/.android/build-cache/2c11c7105f78479a7e940e3e57df3b7d052ff185/output/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/xiaoyuan/Desktop/DiamondLive/giftlibrary/build/intermediates/res/merged/androidTest/debug/layout/face_image.xml",
+        "source": "/Users/xiaoyuan/Desktop/DiamondLive/giftlibrary/build/intermediates/bundles/debug/res/layout/face_image.xml"
+    },
+    {
+        "merged": "/Users/xiaoyuan/北财/1609C/DiamondLive/giftlibrary/build/intermediates/res/merged/androidTest/debug/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/Users/xiaoyuan/.android/build-cache/2c11c7105f78479a7e940e3e57df3b7d052ff185/output/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/Users/xiaoyuan/北财/1609C/DiamondLive/giftlibrary/build/intermediates/res/merged/androidTest/debug/layout/face_image.xml",
+        "source": "/Users/xiaoyuan/北财/1609C/DiamondLive/giftlibrary/build/intermediates/bundles/debug/res/layout/face_image.xml"
+    },
+    {
+        "merged": "/Users/xiaoyuan/Desktop/DiamondLive/giftlibrary/build/intermediates/res/merged/androidTest/debug/layout/notification_media_cancel_action.xml",
+        "source": "/Users/xiaoyuan/.android/build-cache/2c11c7105f78479a7e940e3e57df3b7d052ff185/output/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/xiaoyuan/Desktop/DiamondLive/giftlibrary/build/intermediates/res/merged/androidTest/debug/layout/notification_media_action.xml",
+        "source": "/Users/xiaoyuan/.android/build-cache/2c11c7105f78479a7e940e3e57df3b7d052ff185/output/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/xiaoyuan/北财/1609C/DiamondLive/giftlibrary/build/intermediates/res/merged/androidTest/debug/layout/abc_screen_toolbar.xml",
+        "source": "/Users/xiaoyuan/.android/build-cache/2c11c7105f78479a7e940e3e57df3b7d052ff185/output/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/xiaoyuan/北财/1609C/DiamondLive/giftlibrary/build/intermediates/res/merged/androidTest/debug/layout/item_gift.xml",
+        "source": "/Users/xiaoyuan/北财/1609C/DiamondLive/giftlibrary/build/intermediates/bundles/debug/res/layout/item_gift.xml"
+    },
+    {
+        "merged": "/Users/xiaoyuan/Desktop/DiamondLive/giftlibrary/build/intermediates/res/merged/androidTest/debug/layout/abc_select_dialog_material.xml",
+        "source": "/Users/xiaoyuan/.android/build-cache/2c11c7105f78479a7e940e3e57df3b7d052ff185/output/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/xiaoyuan/Desktop/DiamondLive/giftlibrary/build/intermediates/res/merged/androidTest/debug/layout/abc_search_view.xml",
+        "source": "/Users/xiaoyuan/.android/build-cache/2c11c7105f78479a7e940e3e57df3b7d052ff185/output/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/xiaoyuan/Desktop/DiamondLive/giftlibrary/build/intermediates/res/merged/androidTest/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/xiaoyuan/.android/build-cache/2c11c7105f78479a7e940e3e57df3b7d052ff185/output/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/xiaoyuan/Desktop/DiamondLive/E:\\ShiXun01\\DiamondLive\\giftlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\number_calculator_layout.xml",
+        "source": "/Users/xiaoyuan/Desktop/DiamondLive/E:\\ShiXun01\\DiamondLive\\giftlibrary\\build\\intermediates\\bundles\\debug\\res\\layout\\number_calculator_layout.xml"
+    },
+    {
+        "merged": "/Users/xiaoyuan/北财/1609C/DiamondLive/giftlibrary/build/intermediates/res/merged/androidTest/debug/layout/number_calculator_layout.xml",
+        "source": "/Users/xiaoyuan/北财/1609C/DiamondLive/giftlibrary/build/intermediates/bundles/debug/res/layout/number_calculator_layout.xml"
+    },
+    {
+        "merged": "/Users/xiaoyuan/北财/1609C/DiamondLive/giftlibrary/build/intermediates/res/merged/androidTest/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/xiaoyuan/.android/build-cache/2c11c7105f78479a7e940e3e57df3b7d052ff185/output/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/xiaoyuan/北财/1609C/DiamondLive/giftlibrary/build/intermediates/res/merged/androidTest/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/xiaoyuan/.android/build-cache/2c11c7105f78479a7e940e3e57df3b7d052ff185/output/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/xiaoyuan/Desktop/DiamondLive/E:\\ShiXun01\\DiamondLive\\giftlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\face_image.xml",
+        "source": "/Users/xiaoyuan/Desktop/DiamondLive/E:\\ShiXun01\\DiamondLive\\giftlibrary\\build\\intermediates\\bundles\\debug\\res\\layout\\face_image.xml"
+    },
+    {
+        "merged": "/Users/xiaoyuan/Desktop/DiamondLive/E:\\ShiXun01\\DiamondLive\\giftlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "/Users/xiaoyuan/Desktop/DiamondLive/C:\\Users\\Administrator\\.android\\build-cache\\227ed52b81a0d2beae5c2e00e9ff15cd8df35f72\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/xiaoyuan/北财/1609C/DiamondLive/giftlibrary/build/intermediates/res/merged/androidTest/debug/layout/abc_search_view.xml",
+        "source": "/Users/xiaoyuan/.android/build-cache/2c11c7105f78479a7e940e3e57df3b7d052ff185/output/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/xiaoyuan/Desktop/DiamondLive/E:\\ShiXun01\\DiamondLive\\giftlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "/Users/xiaoyuan/Desktop/DiamondLive/C:\\Users\\Administrator\\.android\\build-cache\\227ed52b81a0d2beae5c2e00e9ff15cd8df35f72\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/xiaoyuan/Desktop/DiamondLive/giftlibrary/build/intermediates/res/merged/androidTest/debug/layout/activity_gift.xml",
+        "source": "/Users/xiaoyuan/Desktop/DiamondLive/giftlibrary/build/intermediates/bundles/debug/res/layout/activity_gift.xml"
+    },
+    {
+        "merged": "/Users/xiaoyuan/Desktop/DiamondLive/E:\\ShiXun01\\DiamondLive\\giftlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "/Users/xiaoyuan/Desktop/DiamondLive/C:\\Users\\Administrator\\.android\\build-cache\\227ed52b81a0d2beae5c2e00e9ff15cd8df35f72\\output\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/xiaoyuan/Desktop/DiamondLive/giftlibrary/build/intermediates/res/merged/androidTest/debug/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/Users/xiaoyuan/.android/build-cache/2c11c7105f78479a7e940e3e57df3b7d052ff185/output/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/Users/xiaoyuan/Desktop/DiamondLive/E:\\ShiXun01\\DiamondLive\\giftlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "/Users/xiaoyuan/Desktop/DiamondLive/C:\\Users\\Administrator\\.android\\build-cache\\227ed52b81a0d2beae5c2e00e9ff15cd8df35f72\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/xiaoyuan/Desktop/DiamondLive/giftlibrary/build/intermediates/res/merged/androidTest/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/xiaoyuan/.android/build-cache/2c11c7105f78479a7e940e3e57df3b7d052ff185/output/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/xiaoyuan/Desktop/DiamondLive/giftlibrary/build/intermediates/res/merged/androidTest/debug/layout/abc_screen_content_include.xml",
+        "source": "/Users/xiaoyuan/.android/build-cache/2c11c7105f78479a7e940e3e57df3b7d052ff185/output/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/xiaoyuan/Desktop/DiamondLive/E:\\ShiXun01\\DiamondLive\\giftlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "/Users/xiaoyuan/Desktop/DiamondLive/C:\\Users\\Administrator\\.android\\build-cache\\227ed52b81a0d2beae5c2e00e9ff15cd8df35f72\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/xiaoyuan/Desktop/DiamondLive/giftlibrary/build/intermediates/res/merged/androidTest/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/xiaoyuan/.android/build-cache/2c11c7105f78479a7e940e3e57df3b7d052ff185/output/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/xiaoyuan/北财/1609C/DiamondLive/giftlibrary/build/intermediates/res/merged/androidTest/debug/layout/face_gridview.xml",
+        "source": "/Users/xiaoyuan/北财/1609C/DiamondLive/giftlibrary/build/intermediates/bundles/debug/res/layout/face_gridview.xml"
+    },
+    {
+        "merged": "/Users/xiaoyuan/北财/1609C/DiamondLive/giftlibrary/build/intermediates/res/merged/androidTest/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/xiaoyuan/.android/build-cache/2c11c7105f78479a7e940e3e57df3b7d052ff185/output/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/xiaoyuan/Desktop/DiamondLive/E:\\ShiXun01\\DiamondLive\\giftlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "/Users/xiaoyuan/Desktop/DiamondLive/C:\\Users\\Administrator\\.android\\build-cache\\227ed52b81a0d2beae5c2e00e9ff15cd8df35f72\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/Users/xiaoyuan/Desktop/DiamondLive/E:\\ShiXun01\\DiamondLive\\giftlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_template_media.xml",
+        "source": "/Users/xiaoyuan/Desktop/DiamondLive/C:\\Users\\Administrator\\.android\\build-cache\\227ed52b81a0d2beae5c2e00e9ff15cd8df35f72\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/xiaoyuan/Desktop/DiamondLive/E:\\ShiXun01\\DiamondLive\\giftlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\activity_gift.xml",
+        "source": "/Users/xiaoyuan/Desktop/DiamondLive/E:\\ShiXun01\\DiamondLive\\giftlibrary\\build\\intermediates\\bundles\\debug\\res\\layout\\activity_gift.xml"
+    },
+    {
+        "merged": "/Users/xiaoyuan/北财/1609C/DiamondLive/giftlibrary/build/intermediates/res/merged/androidTest/debug/layout/abc_select_dialog_material.xml",
+        "source": "/Users/xiaoyuan/.android/build-cache/2c11c7105f78479a7e940e3e57df3b7d052ff185/output/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/xiaoyuan/Desktop/DiamondLive/giftlibrary/build/intermediates/res/merged/androidTest/debug/layout/number_calculator_layout.xml",
+        "source": "/Users/xiaoyuan/Desktop/DiamondLive/giftlibrary/build/intermediates/bundles/debug/res/layout/number_calculator_layout.xml"
+    },
+    {
+        "merged": "/Users/xiaoyuan/北财/1609C/DiamondLive/giftlibrary/build/intermediates/res/merged/androidTest/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/xiaoyuan/.android/build-cache/2c11c7105f78479a7e940e3e57df3b7d052ff185/output/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/xiaoyuan/北财/1609C/DiamondLive/giftlibrary/build/intermediates/res/merged/androidTest/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/xiaoyuan/.android/build-cache/2c11c7105f78479a7e940e3e57df3b7d052ff185/output/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/xiaoyuan/Desktop/DiamondLive/giftlibrary/build/intermediates/res/merged/androidTest/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/xiaoyuan/.android/build-cache/2c11c7105f78479a7e940e3e57df3b7d052ff185/output/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/xiaoyuan/北财/1609C/DiamondLive/giftlibrary/build/intermediates/res/merged/androidTest/debug/layout/notification_template_media.xml",
+        "source": "/Users/xiaoyuan/.android/build-cache/2c11c7105f78479a7e940e3e57df3b7d052ff185/output/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/xiaoyuan/Desktop/DiamondLive/E:\\ShiXun01\\DiamondLive\\giftlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/xiaoyuan/Desktop/DiamondLive/C:\\Users\\Administrator\\.android\\build-cache\\227ed52b81a0d2beae5c2e00e9ff15cd8df35f72\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/xiaoyuan/Desktop/DiamondLive/giftlibrary/build/intermediates/res/merged/androidTest/debug/layout/notification_template_big_media.xml",
+        "source": "/Users/xiaoyuan/.android/build-cache/2c11c7105f78479a7e940e3e57df3b7d052ff185/output/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/xiaoyuan/Desktop/DiamondLive/E:\\ShiXun01\\DiamondLive\\giftlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "/Users/xiaoyuan/Desktop/DiamondLive/C:\\Users\\Administrator\\.android\\build-cache\\227ed52b81a0d2beae5c2e00e9ff15cd8df35f72\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/xiaoyuan/Desktop/DiamondLive/E:\\ShiXun01\\DiamondLive\\giftlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\dot_image.xml",
+        "source": "/Users/xiaoyuan/Desktop/DiamondLive/E:\\ShiXun01\\DiamondLive\\giftlibrary\\build\\intermediates\\bundles\\debug\\res\\layout\\dot_image.xml"
+    },
+    {
+        "merged": "/Users/xiaoyuan/Desktop/DiamondLive/giftlibrary/build/intermediates/res/merged/androidTest/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/xiaoyuan/.android/build-cache/2c11c7105f78479a7e940e3e57df3b7d052ff185/output/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/xiaoyuan/Desktop/DiamondLive/giftlibrary/build/intermediates/res/merged/androidTest/debug/layout/select_dialog_item_material.xml",
+        "source": "/Users/xiaoyuan/.android/build-cache/2c11c7105f78479a7e940e3e57df3b7d052ff185/output/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/xiaoyuan/北财/1609C/DiamondLive/giftlibrary/build/intermediates/res/merged/androidTest/debug/layout/abc_action_mode_bar.xml",
+        "source": "/Users/xiaoyuan/.android/build-cache/2c11c7105f78479a7e940e3e57df3b7d052ff185/output/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/xiaoyuan/Desktop/DiamondLive/giftlibrary/build/intermediates/res/merged/androidTest/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/xiaoyuan/.android/build-cache/2c11c7105f78479a7e940e3e57df3b7d052ff185/output/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/xiaoyuan/Desktop/DiamondLive/giftlibrary/build/intermediates/res/merged/androidTest/debug/layout/abc_action_mode_bar.xml",
+        "source": "/Users/xiaoyuan/.android/build-cache/2c11c7105f78479a7e940e3e57df3b7d052ff185/output/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/xiaoyuan/北财/1609C/DiamondLive/giftlibrary/build/intermediates/res/merged/androidTest/debug/layout/abc_screen_content_include.xml",
+        "source": "/Users/xiaoyuan/.android/build-cache/2c11c7105f78479a7e940e3e57df3b7d052ff185/output/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/xiaoyuan/北财/1609C/DiamondLive/giftlibrary/build/intermediates/res/merged/androidTest/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/xiaoyuan/.android/build-cache/2c11c7105f78479a7e940e3e57df3b7d052ff185/output/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/xiaoyuan/北财/1609C/DiamondLive/giftlibrary/build/intermediates/res/merged/androidTest/debug/layout/dot_image.xml",
+        "source": "/Users/xiaoyuan/北财/1609C/DiamondLive/giftlibrary/build/intermediates/bundles/debug/res/layout/dot_image.xml"
+    },
+    {
+        "merged": "/Users/xiaoyuan/Desktop/DiamondLive/giftlibrary/build/intermediates/res/merged/androidTest/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/xiaoyuan/.android/build-cache/2c11c7105f78479a7e940e3e57df3b7d052ff185/output/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/xiaoyuan/北财/1609C/DiamondLive/giftlibrary/build/intermediates/res/merged/androidTest/debug/layout/notification_media_action.xml",
+        "source": "/Users/xiaoyuan/.android/build-cache/2c11c7105f78479a7e940e3e57df3b7d052ff185/output/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/xiaoyuan/Desktop/DiamondLive/giftlibrary/build/intermediates/res/merged/androidTest/debug/layout/face_gridview.xml",
+        "source": "/Users/xiaoyuan/Desktop/DiamondLive/giftlibrary/build/intermediates/bundles/debug/res/layout/face_gridview.xml"
+    },
+    {
+        "merged": "/Users/xiaoyuan/Desktop/DiamondLive/E:\\ShiXun01\\DiamondLive\\giftlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "/Users/xiaoyuan/Desktop/DiamondLive/C:\\Users\\Administrator\\.android\\build-cache\\227ed52b81a0d2beae5c2e00e9ff15cd8df35f72\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/xiaoyuan/北财/1609C/DiamondLive/giftlibrary/build/intermediates/res/merged/androidTest/debug/layout/abc_dialog_title_material.xml",
+        "source": "/Users/xiaoyuan/.android/build-cache/2c11c7105f78479a7e940e3e57df3b7d052ff185/output/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/xiaoyuan/Desktop/DiamondLive/E:\\ShiXun01\\DiamondLive\\giftlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_search_view.xml",
+        "source": "/Users/xiaoyuan/Desktop/DiamondLive/C:\\Users\\Administrator\\.android\\build-cache\\227ed52b81a0d2beae5c2e00e9ff15cd8df35f72\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/xiaoyuan/Desktop/DiamondLive/giftlibrary/build/intermediates/res/merged/androidTest/debug/layout/notification_template_big_media_narrow.xml",
+        "source": "/Users/xiaoyuan/.android/build-cache/2c11c7105f78479a7e940e3e57df3b7d052ff185/output/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/xiaoyuan/北财/1609C/DiamondLive/giftlibrary/build/intermediates/res/merged/androidTest/debug/layout/abc_action_menu_layout.xml",
+        "source": "/Users/xiaoyuan/.android/build-cache/2c11c7105f78479a7e940e3e57df3b7d052ff185/output/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/xiaoyuan/Desktop/DiamondLive/giftlibrary/build/intermediates/res/merged/androidTest/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/xiaoyuan/.android/build-cache/2c11c7105f78479a7e940e3e57df3b7d052ff185/output/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/xiaoyuan/北财/1609C/DiamondLive/giftlibrary/build/intermediates/res/merged/androidTest/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/xiaoyuan/.android/build-cache/2c11c7105f78479a7e940e3e57df3b7d052ff185/output/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/xiaoyuan/Desktop/DiamondLive/E:\\ShiXun01\\DiamondLive\\giftlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "/Users/xiaoyuan/Desktop/DiamondLive/C:\\Users\\Administrator\\.android\\build-cache\\227ed52b81a0d2beae5c2e00e9ff15cd8df35f72\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/xiaoyuan/Desktop/DiamondLive/E:\\ShiXun01\\DiamondLive\\giftlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/xiaoyuan/Desktop/DiamondLive/C:\\Users\\Administrator\\.android\\build-cache\\227ed52b81a0d2beae5c2e00e9ff15cd8df35f72\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/xiaoyuan/Desktop/DiamondLive/E:\\ShiXun01\\DiamondLive\\giftlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\chat_tool_box.xml",
+        "source": "/Users/xiaoyuan/Desktop/DiamondLive/E:\\ShiXun01\\DiamondLive\\giftlibrary\\build\\intermediates\\bundles\\debug\\res\\layout\\chat_tool_box.xml"
+    },
+    {
+        "merged": "/Users/xiaoyuan/北财/1609C/DiamondLive/giftlibrary/build/intermediates/res/merged/androidTest/debug/layout/notification_template_lines.xml",
+        "source": "/Users/xiaoyuan/.android/build-cache/2c11c7105f78479a7e940e3e57df3b7d052ff185/output/res/layout/notification_template_lines.xml"
+    },
+    {
+        "merged": "/Users/xiaoyuan/Desktop/DiamondLive/giftlibrary/build/intermediates/res/merged/androidTest/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/xiaoyuan/.android/build-cache/2c11c7105f78479a7e940e3e57df3b7d052ff185/output/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/xiaoyuan/Desktop/DiamondLive/E:\\ShiXun01\\DiamondLive\\giftlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\item_gift.xml",
+        "source": "/Users/xiaoyuan/Desktop/DiamondLive/E:\\ShiXun01\\DiamondLive\\giftlibrary\\build\\intermediates\\bundles\\debug\\res\\layout\\item_gift.xml"
+    },
+    {
+        "merged": "/Users/xiaoyuan/北财/1609C/DiamondLive/giftlibrary/build/intermediates/res/merged/androidTest/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/xiaoyuan/.android/build-cache/2c11c7105f78479a7e940e3e57df3b7d052ff185/output/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/xiaoyuan/北财/1609C/DiamondLive/giftlibrary/build/intermediates/res/merged/androidTest/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/xiaoyuan/.android/build-cache/2c11c7105f78479a7e940e3e57df3b7d052ff185/output/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/xiaoyuan/Desktop/DiamondLive/giftlibrary/build/intermediates/res/merged/androidTest/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/xiaoyuan/.android/build-cache/2c11c7105f78479a7e940e3e57df3b7d052ff185/output/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/xiaoyuan/Desktop/DiamondLive/giftlibrary/build/intermediates/res/merged/androidTest/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/xiaoyuan/.android/build-cache/2c11c7105f78479a7e940e3e57df3b7d052ff185/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/xiaoyuan/Desktop/DiamondLive/E:\\ShiXun01\\DiamondLive\\giftlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_screen_simple.xml",
+        "source": "/Users/xiaoyuan/Desktop/DiamondLive/C:\\Users\\Administrator\\.android\\build-cache\\227ed52b81a0d2beae5c2e00e9ff15cd8df35f72\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/xiaoyuan/北财/1609C/DiamondLive/giftlibrary/build/intermediates/res/merged/androidTest/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Users/xiaoyuan/.android/build-cache/2c11c7105f78479a7e940e3e57df3b7d052ff185/output/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/xiaoyuan/Desktop/DiamondLive/giftlibrary/build/intermediates/res/merged/androidTest/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/xiaoyuan/.android/build-cache/2c11c7105f78479a7e940e3e57df3b7d052ff185/output/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/xiaoyuan/Desktop/DiamondLive/E:\\ShiXun01\\DiamondLive\\giftlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "/Users/xiaoyuan/Desktop/DiamondLive/C:\\Users\\Administrator\\.android\\build-cache\\227ed52b81a0d2beae5c2e00e9ff15cd8df35f72\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/xiaoyuan/Desktop/DiamondLive/E:\\ShiXun01\\DiamondLive\\giftlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "/Users/xiaoyuan/Desktop/DiamondLive/C:\\Users\\Administrator\\.android\\build-cache\\227ed52b81a0d2beae5c2e00e9ff15cd8df35f72\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/xiaoyuan/Desktop/DiamondLive/giftlibrary/build/intermediates/res/merged/androidTest/debug/layout/abc_action_menu_layout.xml",
+        "source": "/Users/xiaoyuan/.android/build-cache/2c11c7105f78479a7e940e3e57df3b7d052ff185/output/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/xiaoyuan/Desktop/DiamondLive/E:\\ShiXun01\\DiamondLive\\giftlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_template_part_time.xml",
+        "source": "/Users/xiaoyuan/Desktop/DiamondLive/C:\\Users\\Administrator\\.android\\build-cache\\227ed52b81a0d2beae5c2e00e9ff15cd8df35f72\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/xiaoyuan/Desktop/DiamondLive/giftlibrary/build/intermediates/res/merged/androidTest/debug/layout/abc_screen_toolbar.xml",
+        "source": "/Users/xiaoyuan/.android/build-cache/2c11c7105f78479a7e940e3e57df3b7d052ff185/output/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/xiaoyuan/Desktop/DiamondLive/E:\\ShiXun01\\DiamondLive\\giftlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/xiaoyuan/Desktop/DiamondLive/C:\\Users\\Administrator\\.android\\build-cache\\227ed52b81a0d2beae5c2e00e9ff15cd8df35f72\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Users/xiaoyuan/北财/1609C/DiamondLive/giftlibrary/build/intermediates/res/merged/androidTest/debug/layout/chat_face_container.xml",
+        "source": "/Users/xiaoyuan/北财/1609C/DiamondLive/giftlibrary/build/intermediates/bundles/debug/res/layout/chat_face_container.xml"
+    },
+    {
+        "merged": "/Users/xiaoyuan/Desktop/DiamondLive/E:\\ShiXun01\\DiamondLive\\giftlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "/Users/xiaoyuan/Desktop/DiamondLive/C:\\Users\\Administrator\\.android\\build-cache\\227ed52b81a0d2beae5c2e00e9ff15cd8df35f72\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/xiaoyuan/Desktop/DiamondLive/giftlibrary/build/intermediates/res/merged/androidTest/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Users/xiaoyuan/.android/build-cache/2c11c7105f78479a7e940e3e57df3b7d052ff185/output/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/xiaoyuan/Desktop/DiamondLive/giftlibrary/build/intermediates/res/merged/androidTest/debug/layout/abc_screen_simple.xml",
+        "source": "/Users/xiaoyuan/.android/build-cache/2c11c7105f78479a7e940e3e57df3b7d052ff185/output/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/xiaoyuan/Desktop/DiamondLive/giftlibrary/build/intermediates/res/merged/androidTest/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/xiaoyuan/.android/build-cache/2c11c7105f78479a7e940e3e57df3b7d052ff185/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Users/xiaoyuan/Desktop/DiamondLive/E:\\ShiXun01\\DiamondLive\\giftlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "/Users/xiaoyuan/Desktop/DiamondLive/C:\\Users\\Administrator\\.android\\build-cache\\227ed52b81a0d2beae5c2e00e9ff15cd8df35f72\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/xiaoyuan/Desktop/DiamondLive/E:\\ShiXun01\\DiamondLive\\giftlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_template_big_media.xml",
+        "source": "/Users/xiaoyuan/Desktop/DiamondLive/C:\\Users\\Administrator\\.android\\build-cache\\227ed52b81a0d2beae5c2e00e9ff15cd8df35f72\\output\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/xiaoyuan/北财/1609C/DiamondLive/giftlibrary/build/intermediates/res/merged/androidTest/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/xiaoyuan/.android/build-cache/2c11c7105f78479a7e940e3e57df3b7d052ff185/output/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/xiaoyuan/北财/1609C/DiamondLive/giftlibrary/build/intermediates/res/merged/androidTest/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/xiaoyuan/.android/build-cache/2c11c7105f78479a7e940e3e57df3b7d052ff185/output/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/xiaoyuan/北财/1609C/DiamondLive/giftlibrary/build/intermediates/res/merged/androidTest/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/xiaoyuan/.android/build-cache/2c11c7105f78479a7e940e3e57df3b7d052ff185/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Users/xiaoyuan/Desktop/DiamondLive/giftlibrary/build/intermediates/res/merged/androidTest/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/xiaoyuan/.android/build-cache/2c11c7105f78479a7e940e3e57df3b7d052ff185/output/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/xiaoyuan/Desktop/DiamondLive/E:\\ShiXun01\\DiamondLive\\giftlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "/Users/xiaoyuan/Desktop/DiamondLive/C:\\Users\\Administrator\\.android\\build-cache\\227ed52b81a0d2beae5c2e00e9ff15cd8df35f72\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/xiaoyuan/北财/1609C/DiamondLive/giftlibrary/build/intermediates/res/merged/androidTest/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/xiaoyuan/.android/build-cache/2c11c7105f78479a7e940e3e57df3b7d052ff185/output/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/xiaoyuan/Desktop/DiamondLive/E:\\ShiXun01\\DiamondLive\\giftlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "/Users/xiaoyuan/Desktop/DiamondLive/C:\\Users\\Administrator\\.android\\build-cache\\227ed52b81a0d2beae5c2e00e9ff15cd8df35f72\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/xiaoyuan/Desktop/DiamondLive/E:\\ShiXun01\\DiamondLive\\giftlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_template_lines.xml",
+        "source": "/Users/xiaoyuan/Desktop/DiamondLive/C:\\Users\\Administrator\\.android\\build-cache\\227ed52b81a0d2beae5c2e00e9ff15cd8df35f72\\output\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "/Users/xiaoyuan/北财/1609C/DiamondLive/giftlibrary/build/intermediates/res/merged/androidTest/debug/layout/notification_media_cancel_action.xml",
+        "source": "/Users/xiaoyuan/.android/build-cache/2c11c7105f78479a7e940e3e57df3b7d052ff185/output/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/xiaoyuan/北财/1609C/DiamondLive/giftlibrary/build/intermediates/res/merged/androidTest/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/xiaoyuan/.android/build-cache/2c11c7105f78479a7e940e3e57df3b7d052ff185/output/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/xiaoyuan/Desktop/DiamondLive/E:\\ShiXun01\\DiamondLive\\giftlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "/Users/xiaoyuan/Desktop/DiamondLive/C:\\Users\\Administrator\\.android\\build-cache\\227ed52b81a0d2beae5c2e00e9ff15cd8df35f72\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/xiaoyuan/Desktop/DiamondLive/giftlibrary/build/intermediates/res/merged/androidTest/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/xiaoyuan/.android/build-cache/2c11c7105f78479a7e940e3e57df3b7d052ff185/output/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/xiaoyuan/Desktop/DiamondLive/giftlibrary/build/intermediates/res/merged/androidTest/debug/layout/abc_dialog_title_material.xml",
+        "source": "/Users/xiaoyuan/.android/build-cache/2c11c7105f78479a7e940e3e57df3b7d052ff185/output/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/xiaoyuan/北财/1609C/DiamondLive/giftlibrary/build/intermediates/res/merged/androidTest/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/xiaoyuan/.android/build-cache/2c11c7105f78479a7e940e3e57df3b7d052ff185/output/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/xiaoyuan/北财/1609C/DiamondLive/giftlibrary/build/intermediates/res/merged/androidTest/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/xiaoyuan/.android/build-cache/2c11c7105f78479a7e940e3e57df3b7d052ff185/output/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/xiaoyuan/Desktop/DiamondLive/E:\\ShiXun01\\DiamondLive\\giftlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "/Users/xiaoyuan/Desktop/DiamondLive/C:\\Users\\Administrator\\.android\\build-cache\\227ed52b81a0d2beae5c2e00e9ff15cd8df35f72\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/xiaoyuan/北财/1609C/DiamondLive/giftlibrary/build/intermediates/res/merged/androidTest/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/xiaoyuan/.android/build-cache/2c11c7105f78479a7e940e3e57df3b7d052ff185/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    }
+]

@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/transparent"
+    android:orientation="vertical">
+
+    <RelativeLayout android:id="@+id/my_live"
+        android:background="@color/color_ffffff"
+        android:layout_width="fill_parent"
+        android:layout_height="50.0dip">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10.0dip"
+            android:text="我的直播"
+            android:layout_alignParentLeft="true"
+            android:layout_centerInParent="true" />
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="10.0dip"
+            android:src="@mipmap/bg_go"
+            android:layout_alignParentRight="true"
+            android:layout_centerInParent="true" />
+    </RelativeLayout>
+    <View
+        android:background="@color/color_c9c9c9"
+        android:layout_width="fill_parent"
+        android:layout_height="1.0px" />
+    <RelativeLayout
+        android:id="@+id/my_video"
+        android:background="@color/color_ffffff"
+        android:layout_width="fill_parent"
+        android:layout_height="50.0dip">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10.0dip"
+            android:text="我的视频"
+            android:layout_alignParentLeft="true"
+            android:layout_centerInParent="true" />
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="10.0dip"
+            android:src="@mipmap/bg_go"
+            android:layout_alignParentRight="true"
+            android:layout_centerInParent="true" />
+    </RelativeLayout>
+    <View
+        android:background="@color/color_c9c9c9"
+        android:layout_width="fill_parent"
+        android:layout_height="1.0px" />
+    <RelativeLayout
+        android:id="@+id/my_fans"
+        android:background="@color/color_ffffff"
+        android:layout_width="fill_parent"
+        android:layout_height="50.0dip">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10.0dip"
+            android:text="我的粉丝"
+            android:layout_alignParentLeft="true"
+            android:layout_centerInParent="true" />
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="10.0dip"
+            android:src="@mipmap/bg_go"
+            android:layout_alignParentRight="true"
+            android:layout_centerInParent="true" />
+    </RelativeLayout>
+
+    <View
+        android:background="@color/color_c9c9c9"
+        android:layout_width="fill_parent"
+        android:layout_height="1.0px" />
+    <RelativeLayout
+        android:id="@+id/my_follow"
+        android:background="@color/color_ffffff"
+        android:layout_width="fill_parent"
+        android:layout_height="50.0dip">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10.0dip"
+            android:text="我的关注"
+            android:layout_alignParentLeft="true"
+            android:layout_centerInParent="true" />
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="10.0dip"
+            android:src="@mipmap/bg_go"
+            android:layout_alignParentRight="true"
+            android:layout_centerInParent="true" />
+    </RelativeLayout>
+    <View
+        android:background="@color/color_c9c9c9"
+        android:layout_width="fill_parent"
+        android:layout_height="1.0px" />
+    <RelativeLayout android:id="@+id/my_money"
+        android:background="@color/color_ffffff"
+        android:layout_width="fill_parent"
+        android:layout_height="50.0dip">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10.0dip"
+            android:text="我的收益"
+            android:layout_alignParentLeft="true"
+            android:layout_centerInParent="true" />
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="10.0dip"
+            android:src="@mipmap/bg_go"
+            android:layout_alignParentRight="true"
+            android:layout_centerInParent="true" />
+    </RelativeLayout>
+    <View
+        android:background="@color/color_c9c9c9"
+        android:layout_width="fill_parent"
+        android:layout_height="1.0px" />
+    <RelativeLayout android:id="@+id/setting"
+        android:background="@color/color_ffffff"
+        android:layout_width="fill_parent"
+        android:layout_height="50.0dip">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10.0dip"
+            android:text="设置"
+            android:layout_alignParentLeft="true"
+            android:layout_centerInParent="true" />
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="10.0dip"
+            android:src="@mipmap/bg_go"
+            android:layout_alignParentRight="true"
+            android:layout_centerInParent="true" />
+    </RelativeLayout>
+    <View
+        android:background="@color/color_c9c9c9"
+        android:layout_width="fill_parent"
+        android:layout_height="1.0px" />
+    <RelativeLayout android:id="@+id/quit"
+        android:background="@color/color_ffffff"
+        android:layout_width="fill_parent"
+        android:layout_height="50.0dip">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10.0dip"
+            android:text="退出登录"
+            android:layout_alignParentLeft="true"
+            android:layout_centerInParent="true" />
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="10.0dip"
+            android:src="@mipmap/bg_go"
+            android:layout_alignParentRight="true"
+            android:layout_centerInParent="true" />
+    </RelativeLayout>
+
+</LinearLayout>

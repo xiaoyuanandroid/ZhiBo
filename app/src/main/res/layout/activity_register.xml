@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center_vertical"
+    android:background="@mipmap/login_bg">
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/reg_avatar"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_gravity="center"
+        android:layout_marginBottom="10dp"
+        android:src="@mipmap/user_default"
+        app:civ_border_color="@color/color_ffffff"
+        app:civ_border_width="2dp" />
+
+    <TextView
+        android:id="@+id/reg_tv_nickname"
+        style="@style/login_page_tv_name_style"
+        android:text="nickname"/>
+    <EditText
+        android:id="@+id/reg_et_nickname"
+        style="@style/login_page_et_style"
+        android:hint="nickname" />
+    <TextView
+        android:id="@+id/reg_nickname_input"
+        style="@style/input_num_status_style" />
+
+    <TextView
+        android:id="@+id/reg_tv_phone"
+        style="@style/login_page_tv_name_style"
+        android:text="phone"/>
+    <EditText
+        android:id="@+id/reg_et_phone"
+        style="@style/login_page_et_style"
+        android:hint="phone" />
+    <TextView
+        android:id="@+id/reg_phone_input"
+        style="@style/input_num_status_style" />
+
+    <TextView
+        android:id="@+id/reg_tv_pwd"
+        style="@style/login_page_tv_name_style"
+        android:text="password"/>
+    <EditText
+        android:id="@+id/reg_et_pwd"
+        style="@style/login_page_et_style"
+        android:hint="password"
+        android:password="true"/>
+    <TextView
+        android:id="@+id/reg_pwd_input"
+        style="@style/input_num_status_style" />
+
+    <TextView
+        android:id="@+id/reg_tv_pwd2"
+        style="@style/login_page_tv_name_style"
+        android:text="password"/>
+    <EditText
+        android:id="@+id/reg_et_pwd2"
+        style="@style/login_page_et_style"
+        android:hint="password"
+        android:password="true"/>
+    <TextView
+        android:id="@+id/reg_pwd2_input"
+        style="@style/input_num_status_style" />
+
+    <TextView
+        android:id="@+id/reg_tv_sign"
+        style="@style/login_page_tv_name_style"
+        android:text="sign"/>
+    <EditText
+        android:id="@+id/reg_et_sign"
+        style="@style/login_page_et_style"
+        android:hint="sign" />
+    <TextView
+        android:id="@+id/reg_sign_input"
+        style="@style/input_num_status_style" />
+    <Button
+        android:id="@+id/reg_bt_reg"
+        android:layout_margin="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@color/color_tab_text"
+        android:text="注册"
+        android:textColor="@color/color_ffffff"
+        android:textSize="15sp"/>
+</LinearLayout>

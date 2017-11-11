@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center_vertical"
+    android:background="@color/color_ffffff">
+
+    <EditText
+        android:id="@+id/et_chat_pop"
+        android:layout_weight="1"
+        android:layout_width="0dp"
+        android:layout_height="40dp"
+        android:background="@null"
+        android:hint="在此输入你要说的话"
+        android:textSize="12sp"
+        android:paddingLeft="10dp"/>
+
+    <Button
+        android:id="@+id/bt_chat_pop"
+        android:layout_marginRight="5dp"
+        android:gravity="center"
+        android:layout_width="50dp"
+        android:layout_height="30dp"
+        android:text="发送"
+        android:background="@drawable/play_message_tv_bg"
+        android:textColor="@color/color_ffffff"
+        android:textSize="12sp" />
+</LinearLayout>

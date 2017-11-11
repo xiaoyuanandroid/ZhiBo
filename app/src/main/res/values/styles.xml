@@ -1,0 +1,91 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="AppTheme.NoActionBar" parent="AppTheme">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+    </style>
+
+    <style name="ZhikeAppTheme" parent="AppTheme.NoActionBar">
+        <!--ActionBar背景  -->
+        <item name="colorPrimary">@color/color_tab_text</item>
+        <item name="colorPrimaryDark">@color/color_tab_text</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <!--页面背景-->
+        <item name="android:windowBackground">@color/color_ffffff</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="text_15_5d5d5d">
+        <item name="android:textColor">@color/color_5d5d5d</item>
+        <item name="android:textSize">@dimen/dim15</item>
+    </style>
+
+    <style name="text_15_444444">
+        <item name="android:textColor">@color/color_444444</item>
+        <item name="android:textSize">@dimen/dim15</item>
+    </style>
+
+    <style name="tab_rb_style">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:button">@null</item>
+        <item name="android:padding">7dp</item>
+        <item name="android:drawablePadding">5dp</item>
+        <item name="android:textColor">@drawable/tab_selector_tv_color</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:gravity">center_horizontal|bottom</item>
+        <item name="android:layout_gravity">bottom</item>
+        <!-- <item name="android:background" >@drawable/tab_selector_checked_bg</item> -->
+    </style>
+
+    <style name="tab_bt_style">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:gravity">center_vertical</item>
+    </style>
+
+    <style name="login_page_tv_inputNum_style">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">13sp</item>
+        <item name="android:textColor">@color/color_a8a8a8</item>
+    </style>
+
+    <style name="login_page_et_style">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">13sp</item>
+        <item name="android:textColorHint">@color/color_a8a8a8</item>
+        <item name="android:textColor">@color/color_ffffff</item>
+        <item name="android:background">@null</item>
+        <item name="android:drawableBottom">@drawable/et_selector</item>
+        <item name="android:layout_margin">5dp</item>
+    </style>
+
+    <style name="login_page_tv_name_style">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">15sp</item>
+        <item name="android:textColor">@color/color_ffffff</item>
+        <item name="android:layout_marginLeft">5dp</item>
+    </style>
+
+    <style name="input_num_status_style">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">13sp</item>
+        <item name="android:textColor">@color/color_a8a8a8</item>
+        <item name="android:layout_marginRight">5dp</item>
+        <item name="android:layout_gravity">end</item>
+        <item name="android:text">"0/20"</item>
+    </style>
+</resources>

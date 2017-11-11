@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@mipmap/login_bg"
+    android:gravity="center_vertical"
+    android:padding="5dp">
+
+    <TextView
+        android:id="@+id/login_tv_phone"
+        style="@style/login_page_tv_name_style"
+        android:text="phone"/>
+    <EditText
+        android:id="@+id/login_et_phone"
+        style="@style/login_page_et_style"
+        android:hint="phone" />
+    <TextView
+        android:id="@+id/login_phone_input"
+        style="@style/input_num_status_style"/>
+
+    <TextView
+        android:id="@+id/login_tv_pwd"
+        style="@style/login_page_tv_name_style"
+        android:text="password"/>
+    <EditText
+        android:id="@+id/login_et_pwd"
+        style="@style/login_page_et_style"
+        android:hint="password"
+        android:password="true"/>
+    <TextView
+        android:id="@+id/login_pwd_input"
+        style="@style/input_num_status_style" />
+
+    <Button
+        android:id="@+id/login_bt_login"
+        android:layout_margin="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@color/color_tab_text"
+        android:text="登录"
+        android:textColor="@color/color_ffffff"
+        android:textSize="15sp"/>
+    <TextView
+        android:id="@+id/login_tv_register"
+        android:layout_marginRight="20dp"
+        android:layout_gravity="end"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/color_ffffff"
+        android:textSize="15sp"
+        android:text="注册新账号"/>
+</LinearLayout>
